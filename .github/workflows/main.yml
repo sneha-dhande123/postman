@@ -13,7 +13,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         repository: sneha-dhande123/new-demo-repo
-        ref: main
         token: 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
         path: ${{github.workspace}}\postman
        
