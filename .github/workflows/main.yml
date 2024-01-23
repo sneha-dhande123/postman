@@ -10,7 +10,7 @@ jobs:
     
     steps:
     - name: cloning the new demo git
-      uses: action/checkout@v4
+      uses: actions/checkout@v4
       with:
         repository: sneha-dhande123/new-demo-repo
         token: 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
