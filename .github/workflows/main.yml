@@ -14,5 +14,5 @@ jobs:
       with:
         repository: sneha-dhande123/new-demo-repo
         token: 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
-        path: ${{github.workspace}}\\new-demo-repo
+        path: ${{github.workspace}}\new-demo-repo
        
